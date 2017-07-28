@@ -86,10 +86,6 @@ Companies Using Slate
 
 You can view more in [the list on the wiki](https://github.com/lord/slate/wiki/Slate-in-the-Wild).
 
-Need Help? Found a bug?
---------------------
-
-[Submit an issue](https://github.com/lord/slate/issues) to the Slate Github if you need any help. And, of course, feel free to submit pull requests with bug fixes or changes.
 
 Contributors
 --------------------
